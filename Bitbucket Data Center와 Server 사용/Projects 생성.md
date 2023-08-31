@@ -25,7 +25,7 @@ Bitbucket Data Center와 Server의 projects를 사용하면 repositories를 그�
 기본적으로 repository 설정은 project 설정을 상속하며 repository 관리자가 수정 가능.  
 신규 및 기존 projects 모두에 대해 일부 repository 설정(Access keys, HTTP access tokens, Project 권한)에 대한 변경 사항을 제한하거나 제어하도록 선택 가능.
 
-> **Note**  
+> [!IMPORTANT]  
 > `Project admins` 권한 필요.
 
 <hr>
