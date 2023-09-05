@@ -2,7 +2,7 @@
 
 <br>
 
-Bitbucket Data Center와 Server의 projects를 사용하면 repositories를 그룹화하고 이에 대한 권한을 집계 방식으로 관리 가능.
+Bitbucket Data Center 및 Server의 projects를 사용하면 repositories를 그룹화하고 이에 대한 권한을 집계 방식으로 관리 가능.
 
 > [!IMPORTANT]  
 > `Project creator` 권한 필요.
