@@ -34,14 +34,12 @@ Clone이 성공하면 local drive에 새 하위 directory가 나타나는데, �
   SSH protocol을 사용하는 경우 public key가 올바르게 구성되었는지 확인.
 5. Terminal 창에서 repository를 clone하려는 local directory로 변경.
 6. git clone을 입력하고 복사한 clone URL을 입력.  
-    HTTPS를 통한 clone
-    ```
-    $ git clone https://username@bitbucket-au.example.com:7999/upstream/PROJ/repo.git
-    ```
-    SSH를 통한 clone
+  SSH를 통한 clone
     ```
     $ git clone git@bitbucket-au.example.com:7999/upstream/PROJ/repo.git
     ```
+    > [!NOTE]  
+    > HTTP 또는 HTTPS 사용 불가.
 
 Clone이 성공하면 local drive에 새 하위 directory가 나타나는데, 이 directory는 clone한 Bitbucket repository와 이름이 동일.  
 여기에는 Git이 source files에 대한 변경 사항을 유지하는데 필요한 files와 metadata가 포함.
