@@ -146,4 +146,4 @@ Webhook을 건너뛰는 경우, Bitbucket의 JMX metrics 출력 또는 logs를 �
 <hr>
 
 ## 참고
-- **Webhooks 관리** - https://confluence.atlassian.com/bitbucketserver/manage-webhooks-938025878.html
+- **Webhooks 관리** - https://confluence.atlassian.com/bitbucketserver0813/manage-webhooks-1283690260.html
