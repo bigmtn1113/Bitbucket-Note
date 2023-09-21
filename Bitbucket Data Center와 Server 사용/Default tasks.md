@@ -57,4 +57,4 @@ Projects 또는 repositories에 대한 default tasks를 편집하거나 삭제�
 <hr>
 
 ## 참고
-- **Default tasks** - https://confluence.atlassian.com/bitbucketserver/default-tasks-1167692866.html
+- **Default tasks** - https://confluence.atlassian.com/bitbucketserver0813/default-tasks-1283690256.html
