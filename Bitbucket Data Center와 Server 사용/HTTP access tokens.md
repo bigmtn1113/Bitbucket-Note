@@ -102,4 +102,4 @@ git clone -c http.extraHeader='Authorization: Bearer MDM0MjM5NDc2MDxxxxxxxxxxxxx
 <hr>
 
 ## 참고
-- **HTTP access tokens** - https://confluence.atlassian.com/bitbucketserver/http-access-tokens-939515499.html
+- **HTTP access tokens** - https://confluence.atlassian.com/bitbucketserver0813/http-access-tokens-1283689908.html
