@@ -27,4 +27,4 @@ Project 관리자가 repository 권한의 관리를 제한하지 않은 경우, 
 <hr>
 
 ## 참고
-- **Repositories 생성** - https://confluence.atlassian.com/bitbucketserver/creating-repositories-776639815.html
+- **Repositories 생성** - https://confluence.atlassian.com/bitbucketserver0813/creating-repositories-1283689854.html
