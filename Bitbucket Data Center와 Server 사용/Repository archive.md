@@ -63,4 +63,4 @@ Repository를 삭제하는 것 대신 보관 가능.
 <hr>
 
 ## 참고
-- **Repository archive** - https://confluence.atlassian.com/bitbucketserver/archive-a-repository-1128304317.html
+- **Repository archive** - https://confluence.atlassian.com/bitbucketserver0813/archive-a-repository-1283689897.html
