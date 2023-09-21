@@ -31,4 +31,4 @@ Bitbucket Data Center 및 Server의 projects를 사용하면 repositories를 그
 <hr>
 
 ## 참고
-- **Projects 생성** - https://confluence.atlassian.com/bitbucketserver/creating-projects-776639848.html
+- **Projects 생성** - https://confluence.atlassian.com/bitbucketserver0813/creating-projects-1283689830.html
