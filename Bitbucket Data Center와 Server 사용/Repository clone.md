@@ -47,4 +47,4 @@ Clone이 성공하면 local drive에 새 하위 directory가 나타나는데, �
 <hr>
 
 ## 참고
-- **Repository clone** - https://confluence.atlassian.com/bitbucketserver/clone-a-repository-790632786.html
+- **Repository clone** - https://confluence.atlassian.com/bitbucketserver0813/clone-a-repository-1283689896.html
