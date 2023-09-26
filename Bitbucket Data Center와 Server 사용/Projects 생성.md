@@ -13,7 +13,7 @@ Bitbucket Data Center 및 Server의 projects를 사용하면 repositories를 그
 1. Navigation bar에서 **Projects > Create project** 선택.
 2. 양식 작성.  
   Project의 식별자로 사용되고 URL에 표시되는 짧은 project key를 사용하는 것을 권장.  
-  ![image](https://confluence.atlassian.com/bitbucketserver/files/776639848/1206790931/1/1675730998996/createproject.png)
+  ![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283689830/1283689852/1/1682982474059/createproject.png)
 3. 선택사항: Project의 avator 선택 가능. 이는 **Bitbucket** 전체에 표시되며 project를 식별하는데 용이.
 4. 완료되면 **Create project** 선택.
 
