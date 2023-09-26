@@ -16,7 +16,7 @@ HTTPS를 통한 Git의 비밀번호 대신 사용하거나 Bitbucket REST API를
 1. **Profile picture > Manage account > HTTP access tokens** 이동.
 2. **Create token** 선택.
 3. token name, permissions 및 expiry 설정  
-  ![image](https://confluence.atlassian.com/bitbucketserver/files/939515499/1095239964/1/1636429838193/CreateHTTPtoken.png)
+  ![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283689908/1283689916/1/1674026043649/CreateHTTPtoken.png)
 
 <br>
 
