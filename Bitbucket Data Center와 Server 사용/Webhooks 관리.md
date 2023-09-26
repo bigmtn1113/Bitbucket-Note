@@ -125,10 +125,10 @@ webhook과 관련된 event가 발생하면, Bitbucket은 event payload가 포함
 Webhook을 trigger하는 작업을 수행했지만 작동하지 않는 경우, **Event log** page를 사용하여 무엇이 잘못되었는지 파악 가능.
 
 Event log를 보고 문제를 해결하려면, Webhooks page로 이동하여 작동하지 않는 Webhook에 대해 **View details**(**Actions** 열에서)를 선택.  
-![image](https://confluence.atlassian.com/bitbucketserver/files/938025878/938025880/1/1505800457466/EventlogWH.png)
+![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283690260/1283690263/1/1682330924575/EventlogWH.png)
 
 문제를 해결하려면, 최신 request 결과(ex: Webhook event details)를 선택.  
-![image](https://confluence.atlassian.com/bitbucketserver/files/938025878/939712385/1/1509947559477/Webhooks+event+detail.png)
+![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283690260/1283690261/1/1682330924376/Webhooks+event+detail.png)
 
 ### Circuit breaking
 Bitbucket instance를 보호하기 위해, Bitbucket webhooks system에 circuit breaking 기능이 구현됨.  
