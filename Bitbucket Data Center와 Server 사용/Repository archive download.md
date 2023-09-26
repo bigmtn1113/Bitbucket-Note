@@ -10,7 +10,7 @@ Source view, Commits list 및 Branches list의 actions dropdown menu에서 sourc
 
 <br>
 
-## Repository *downloading*과 *clining*의 차이점
+## Repository *downloading*과 *cloning*의 차이점
 Repository를 **cloning**하면 원격 repository의 source files와 repository의 Git history(branches, commits, tags 등)가 local system에 복사됨.  
 또한 cloning은 복제된 repository를 다시 가리키는 원격 연결(일반적으로 origin이라고 지칭)을 생성.  
 적절하게 초기화된 Git repository인 local directory에만 복제 가능(`git init` 사용).
