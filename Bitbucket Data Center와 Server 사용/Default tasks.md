@@ -30,7 +30,7 @@ Projects 또는 repositories에 대한 default tasks를 편집하거나 삭제�
 4. 특정 source 및 target branch를 설정하여 특정 pull requests가 열릴 때에만 적용되도록 default task 구성 가능.  
   모든 pull requests에 default task을 적용하려면, source 및 target branch 모두에 대해 **Any branch**를 선택.
 5. **Save** 선택.  
-  ![image](https://confluence.atlassian.com/bitbucketserver/files/1167692866/1167692868/1/1662435393713/add.png)
+  ![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283690256/1283690258/1/1662093508958/add.png)
 
 <br>
 
@@ -39,7 +39,7 @@ Default tasks는 사용자 **Bitbucket** 아래의 pull request overview page에
 Default tasks를 보려면, pull request로 이동하여 해당 **Activity** 확인.
 Pull request를 검토할 때, **Open tasks list** button을 선택하여 조회 가능.
 
-![image](https://confluence.atlassian.com/bitbucketserver/files/1167692866/1167692867/1/1662435393589/view.png)
+![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283690256/1283690257/1/1662093542967/view.png)
 
 <br>
 
