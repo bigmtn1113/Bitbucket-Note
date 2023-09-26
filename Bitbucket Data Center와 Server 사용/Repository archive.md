@@ -27,7 +27,7 @@ Repository를 삭제하는 것 대신 보관 가능.
 - Archive된 repositories에서 code 검색 가능.
 - Archive처리한 repositories는 계속해서 조회 가능.  
   
-  ![image](https://confluence.atlassian.com/bitbucketserver/files/1128304317/1128304319/2/1670386966705/repo_list.png)
+  ![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283689897/1283689903/1/1670143433183/repo_list.png)
 
 <br>
 
@@ -41,7 +41,7 @@ Repository를 삭제하는 것 대신 보관 가능.
   Unarchive하려면 **Manage repository** > **Unarchive** 선택.
 3. 확인 modal에서 **Archive** 선택.
 
-![image](https://confluence.atlassian.com/bitbucketserver/files/1128304317/1189780771/1/1670144064074/repo.png)
+![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283689897/1283689901/1/1670143448812/repo.png)
 
 <br>
 
@@ -58,7 +58,7 @@ Repository를 삭제하는 것 대신 보관 가능.
 3. **Archive** 선택.
 4. 확인 modal에서 **Archive** 선택.
 
-![image](https://confluence.atlassian.com/bitbucketserver/files/1128304317/1189780775/1/1670144087809/global.png)
+![image](https://confluence.atlassian.com/bitbucketserver0813/files/1283689897/1283689902/1/1670143441513/global.png)
 
 <hr>
 
