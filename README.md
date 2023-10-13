@@ -8,6 +8,7 @@ Data Center 및 Server 8.13 version
 
 ## Bitbucket Data Center 및 Server 사용
 - [Add-ons 요청](https://github.com/bigmtn1113/Bitbucket-Note/blob/main/Bitbucket%20Data%20Center%EC%99%80%20Server%20%EC%82%AC%EC%9A%A9/Add-ons%20%EC%9A%94%EC%B2%AD.md)
+- [Commit history](https://github.com/bigmtn1113/Bitbucket-Note/blob/main/Bitbucket%20Data%20Center%EC%99%80%20Server%20%EC%82%AC%EC%9A%A9/Commit%20history.md)
 - [Default tasks](https://github.com/bigmtn1113/Bitbucket-Note/blob/main/Bitbucket%20Data%20Center%EC%99%80%20Server%20%EC%82%AC%EC%9A%A9/Default%20tasks.md)
 - [Default time zone 설정](https://github.com/bigmtn1113/Bitbucket-Note/blob/main/Bitbucket%20Data%20Center%EC%99%80%20Server%20%EC%82%AC%EC%9A%A9/Default%20time%20zone%20%EC%84%A4%EC%A0%95.md)
 - [Git LFS files 작업](https://github.com/bigmtn1113/Bitbucket-Note/blob/main/Bitbucket%20Data%20Center%EC%99%80%20Server%20%EC%82%AC%EC%9A%A9/Git%20LFS%20files%20%EC%9E%91%EC%97%85.md)
